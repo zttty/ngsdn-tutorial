@@ -26,8 +26,8 @@ focus on concepts such as:
 
 ## Basic vs. advanced version
 
-This tutorial comes in two versions: basic (`master` branch), and advanced
-(this branch).
+==This tutorial comes in two versions: basic (`master` branch), and advanced
+(this branch).==
 
 The basic version contains fewer exercises, and it does not assume prior
 knowledge of the P4 language. Instead, it provides a gentle introduction to it.
